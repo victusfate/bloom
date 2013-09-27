@@ -10,6 +10,6 @@ so far I'm stuck at
 
 ##docs:
 
-  *[bloom getting started](https://github.com/bloom-lang/bud/blob/master/docs/getstarted.md)
-  *[Keep CALM and Query On](https://vimeo.com/53904989)
-  *[slides that go iwth above talk](http://db.cs.berkeley.edu/jmh/talks/keepcalm-ricon12.pdf)
+*	[bloom getting started](https://github.com/bloom-lang/bud/blob/master/docs/getstarted.md)
+*	[Keep CALM and Query On](https://vimeo.com/53904989)
+*	[slides that go with above talk](http://db.cs.berkeley.edu/jmh/talks/keepcalm-ricon12.pdf)
